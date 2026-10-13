@@ -44,16 +44,6 @@ I enjoy building applications from design to deployment, improving existing syst
 
 <br>
 
-| Category | Technologies |
-| :--- | :--- |
-| **Backend** | Spring Boot, Node.js, Express |
-| **Frontend** | React, JavaScript, EJS |
-| **Database** | MySQL, Oracle |
-| **Infrastructure** | Linux, Docker, NGINX, GitHub Actions |
-| **Other** | ServiceNow, OSRM, Google OR-Tools |
-
----
-
 ## Featured Projects
 
 ### [UCMS — University Club Management System](https://github.com/gyangho/UCMS)
